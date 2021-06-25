@@ -1,0 +1,11 @@
+.alertDiv {
+    width: 750px;
+    margin: 0 auto;
+    margin-bottom: 2px;
+    text-align: center;
+    background: #90e9ff;
+    padding: 10px 0;
+  }
+  .alertDiv p {
+    margin: 0px;
+  }
